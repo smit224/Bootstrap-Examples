@@ -1,0 +1,32 @@
+body{
+    color: white;
+}
+
+.navbar{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-bottom: #008ed6 3px solid;
+    opacity: 0.8;
+}
+
+#home{
+    background: url("../img/home.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 700px;
+    background-attachment: fixed;
+}
+
+.home-inner{
+    padding-top: 150px;
+}
+
+.dark-overlay{
+    background: rgba(0, 0, 0, 0.7);
+   
+    min-height: 700px;
+}
+
+.custom-form{
+    opacity: 0.7;
+}
